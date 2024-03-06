@@ -1,0 +1,30 @@
+{
+  "name": "anujverma",
+  "version": "1.0.0",
+  "description": "this repo contains the server and client code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myfreeworksport/anuj.git"
+  },
+  "keywords": [
+    "anuj"
+  ],
+  "author": "AnujVerma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myfreeworksport/anuj/issues"
+  },
+  "homepage": "https://github.com/myfreeworksport/anuj#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "joi": "^17.12.2",
+    "nodemon": "^3.1.0",
+    "sequelize": "^6.37.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
